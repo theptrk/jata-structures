@@ -1,0 +1,28 @@
+{
+  "name": "jata-structures",
+  "version": "1.0.0",
+  "description": "A small experimental library for constructing new data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theptrk/jata-structures.git"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "data"
+  ],
+  "author": "Patrick Tran <patrick.tran06@gmail.com> (http://theptrk.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theptrk/jata-structures/issues"
+  },
+  "homepage": "https://github.com/theptrk/jata-structures",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}

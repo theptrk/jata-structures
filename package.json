@@ -1,6 +1,6 @@
 {
   "name": "jata-structures",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small experimental library for constructing new data structures",
   "main": "index.js",
   "scripts": {
